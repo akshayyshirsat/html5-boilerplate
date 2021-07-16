@@ -6,3 +6,6 @@ dist
 .cache
 
 /credentials.py
+
+# Ignore folder
+text/*.txt
